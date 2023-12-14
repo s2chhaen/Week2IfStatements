@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\net8.0\Week2IfStatements.exe
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\net8.0\Week2IfStatements.deps.json
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\net8.0\Week2IfStatements.runtimeconfig.json
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\net8.0\Week2IfStatements.dll
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\net8.0\Week2IfStatements.pdb
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.dll
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\refint\Week2IfStatements.dll
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.pdb
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\Week2IfStatements.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\net8.0\ref\Week2IfStatements.dll
